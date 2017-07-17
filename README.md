@@ -25,4 +25,14 @@
    3. Comparasion delegate
    4. OrderBy
 6. IComparable versus Equals (Object, IEquatable)
-7. 
+7. Exception Handling
+   1. Try-catch-finally
+   2. Catch blocks
+   3. Finally blocks
+8. Logging. NLog
+   1. General information
+   2. Logging levels (trace, debug, info, warn, error, fatal)
+   3. NLog
+9. Delegates. Lambdas and Events
+   1.
+   
