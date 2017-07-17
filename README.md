@@ -40,7 +40,11 @@
        3. Calling the delegate method (Invoke, BeginInvoke, EndInvoke)
    2. Events
        1. The "event" keyword
-       2. EventHandler<TEventArgs>
-       3.
+       2. EventHandler, TEventArgs
+       3. Best Practice Event Pattern
+   3. Lambdas
+       1. Types of lambda expressions
+       2. Features of lambda expressions
+       3. Closure
    
    
