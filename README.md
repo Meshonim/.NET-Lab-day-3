@@ -15,3 +15,14 @@
    2. DateTime.Now, DateTime.UtcNow, DateTime.Today
    3. "Add" methods
    4. ToLocalTime(), ToUniversalTime(), ToLongDateString(), ToShortDateString(), ToLongTimeString(), ToShortTimeString()
+4. Equality Comparison - Standard Equality Protocols
+   1. Equals(), ReferenceEquals()
+   2. Rules of Equals overriding
+   3. Operators: ==, !=
+5. Order Comparison
+   1. IComparable
+   2. IComparer
+   3. Comparasion delegate
+   4. OrderBy
+6. IComparable versus Equals (Object, IEquatable)
+7. 
