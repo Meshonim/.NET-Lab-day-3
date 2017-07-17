@@ -34,5 +34,13 @@
    2. Logging levels (trace, debug, info, warn, error, fatal)
    3. NLog
 9. Delegates. Lambdas and Events
-   1.
+   1. Delegates
+       1. Defining the delegate type (System.Delegate, System.MulticastDelegate)
+       2. Creating a field to hold an instance of the delegate type
+       3. Calling the delegate method (Invoke, BeginInvoke, EndInvoke)
+   2. Events
+       1. The "event" keyword
+       2. EventHandler<TEventArgs>
+       3.
+   
    
